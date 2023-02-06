@@ -1,4 +1,4 @@
-# django_backend
+# django_postgresql docker template 
 Dockerized django backend example with postgresql.
 
 ## Project setup
